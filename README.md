@@ -1,12 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:2a9d8f&height=190&section=header&text=Juan%20Jos%C3%A9%20Huanca%20Esquivel&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Systems%20Engineering%20Student%20%E2%80%A2%20Software%20Developer&descSize=16&descAlignY=58" width="100%" />
+  <img src="assets/header.svg" width="100%" alt="Juan José Huanca Esquivel · If you can imagine it, you can program it · The limit is your imagination · God's plans are the best · Help your neighbor · Life is beautiful, but it can be better" />
 </p>
-
-<p align="center">
-  <img src="assets/quotes.svg" width="900" alt="If you can imagine it, you can program it · The limit is your imagination · God's plans are the best · Help your neighbor · Life is beautiful, but it can be better" />
-</p>
-
----
 
 ## <img src="assets/icons/about.svg" height="30" /> About me
 
