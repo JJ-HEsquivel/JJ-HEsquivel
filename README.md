@@ -8,11 +8,9 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="middle">
-
 ## <img src="assets/icons/about.svg" height="30" /> About me
+
+<img align="right" src="assets/profile.jpg" width="220" alt="Juan José Huanca Esquivel" />
 
 Hello, I'm a systems engineering student who likes building applications for any problem I come across, no matter how small it is, and turning it into a real solution through technology. I'm a competitive person: I enjoy challenges, hackathons and olympiads.
 
@@ -34,12 +32,7 @@ Hello, I'm a systems engineering student who likes building applications for any
 
 - <img src="assets/cite.png" height="18" /> 18th Airborne Infantry Regiment Victoria – CITE
 
-</td>
-    <td valign="middle" align="center" width="240">
-      <img src="assets/profile.jpg" width="220" alt="Juan José Huanca Esquivel" />
-    </td>
-  </tr>
-</table>
+<br clear="right" />
 
 ---
 
