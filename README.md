@@ -3,121 +3,107 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2A9D8F&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Power+Platform+Developer;Mentor+%40+Olimpiadas+STEM%2B;If+there's+a+problem%2C+I+build+the+app." alt="Typing SVG" />
-  </a>
+  <img src="assets/quotes.svg" width="900" alt="If you can imagine it, you can program it · The limit is your imagination · God's plans are the best · Help your neighbor · Life is beautiful, but it can be better" />
 </p>
 
 ---
 
-## 👨‍💻 About me
-
-<img align="left" src="assets/profile.jpg" width="230" alt="Juan José Huanca Esquivel" />
-
-Hi! I'm **Juan José**, a Systems Engineering student at **Universidad Mayor de San Simón**.
-
-I like building applications for any problem I come across, no matter how small it is, and turning it into a working solution. I'm a competitive person: I enjoy challenges, hackathons and olympiads, and I always look for the most efficient way to solve things with technology.
-
-- 🏢 Currently at **Jala**
-- 🧭 Currently a **Mentor** at **Olimpiadas STEM+**
-- 🌱 Always learning new tools to build better software
-- 💬 Ask me about **web development**, **mobile apps** and the **Microsoft Power Platform**
-
-<br clear="left" />
-
----
-
-## 💼 Experience
-
 <table>
   <tr>
-    <td align="center" width="90"><img src="assets/stem.png" width="64" alt="Olimpiadas STEM+" /></td>
-    <td><b>Mentor</b> · Olimpiadas STEM+<br /><sub>Current</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/stem.png" width="64" alt="Olimpiadas STEM+" /></td>
-    <td><b>Agent</b> · Olimpiadas STEM+</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/omie.png" width="64" alt="OMIE" /></td>
-    <td><b>OMIE</b> · Instituto Tecnológico Mundial</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/capacitabol.png" width="64" alt="Capacitabol" /></td>
-    <td><b>Capacitabol</b> · Capacitación Técnica Innovadora</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/elite.png" width="64" alt="Élite Preuniversitarios" /></td>
-    <td><b>Élite</b> · Preuniversitarios</td>
-  </tr>
-</table>
+    <td valign="middle">
 
-## 🎓 Education
+## <img src="assets/icons/about.svg" height="30" /> About me
 
-<table>
-  <tr>
-    <td align="center" width="90"><img src="assets/umss.png" width="64" alt="UMSS" /></td>
-    <td><b>Systems Engineering</b><br />Universidad Mayor de San Simón</td>
-  </tr>
-  <tr>
-    <td align="center">🇺🇸</td>
-    <td><b>English Language Studies</b><br />ALDA Foundation</td>
-  </tr>
-</table>
+Hello, I'm a systems engineering student who likes building applications for any problem I come across, no matter how small it is, and turning it into a real solution through technology. I'm a competitive person: I enjoy challenges, hackathons and olympiads.
 
-## 🎖️ Military Service
+## <img src="assets/icons/education.svg" height="30" /> Education
 
-<table>
-  <tr>
-    <td align="center" width="90"><img src="assets/cite.png" width="64" alt="Paracaidista Militar - Ejército de Bolivia" /></td>
-    <td><b>18th Airborne Infantry Regiment "Victoria"</b><br />CITE · Ejército de Bolivia</td>
+- <img src="assets/umss.png" height="18" /> Systems Engineering – Universidad Mayor de San Simón
+- 🇺🇸 English Language Studies – ALDA Foundation
+
+## <img src="assets/icons/experience.svg" height="30" /> Experience
+
+- <img src="assets/stem.png" height="18" /> Mentor – Olimpiadas STEM+ *(current)*
+- <img src="assets/jala.png" height="18" /> Jala Soft *(current)*
+- <img src="assets/stem.png" height="18" /> Agent – Olimpiadas STEM+
+- <img src="assets/omie.png" height="18" /> OMIE – Instituto Tecnológico Mundial
+- <img src="assets/capacitabol.png" height="18" /> Capacitabol – Capacitación Técnica Innovadora
+- <img src="assets/elite.png" height="18" /> Élite Preuniversitarios
+
+## <img src="assets/icons/military.svg" height="30" /> Military Service
+
+- <img src="assets/cite.png" height="18" /> 18th Airborne Infantry Regiment Victoria – CITE
+
+</td>
+    <td valign="middle" align="center" width="240">
+      <img src="assets/profile.jpg" width="220" alt="Juan José Huanca Esquivel" />
+    </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="assets/icons/technologies.svg" height="30" /> Technologies
 
-**Languages**
+### Microsoft Power Platform
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,py,js,ts,php,cpp,html,css&perline=8" alt="Languages" />
+  <img src="assets/badges/power-platform.svg" height="28" alt="Power Platform" />
+  <img src="assets/badges/power-apps.svg" height="28" alt="Power Apps" />
+  <img src="assets/badges/power-bi.svg" height="28" alt="Power BI" />
+  <img src="assets/badges/dataverse.svg" height="28" alt="Dataverse" />
 </p>
 
-**Frontend & Mobile**
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind&perline=8" alt="Frontend" />
-  <br />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
-**Backend**
+### Frontend Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase&perline=8" alt="Backend" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-**Databases**
+### Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="Databases" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
-**Microsoft Power Platform**
+### Backend Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Power_Apps-742774?style=flat-square" alt="Power Apps" />
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square" alt="Power Automate" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Dataverse-088142?style=flat-square" alt="Dataverse" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-A08021?style=for-the-badge&logo=firebase&logoColor=FFCD34" />
 </p>
 
-**Tools**
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=8" alt="Tools" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
